@@ -1,0 +1,47 @@
+# TrabajoFinalProgramacion
+
+/*
+DESCRIPCION GENERAL.
+Este sistema es una práctica donde se implementó varios Jframe, los cuales tenían como objetivo 
+la creación de un login, un registro, un apartado que mostrara una lista de productos, otro apartado que mostrara 
+los usuarios registrados y un form que mostrara el lugar donde querías ir (Lista de productos o usuarios registrados). 
+El proyecto tiene un toque minimalista pero preciso, donde mediante componentes visuales podrás decidir las 
+acciones que tomaras a continuación.
+
+
+ESTADO DEL PROYECTO.
+Actualmente este programa está en fase beta, mediante los cuales andamos analizando más funciones para implementarlas en futuras actualizaciones. 
+La beta de este proyecto final está terminada, lista para ser analizada y evaluada.
+
+BASE DE DATOS REMOTA.
+	Host: db4free.net
+	Puerto: 3306
+	DataBaseName: finaljava
+	User: randybald
+	Password: qwertyuiop
+
+
+REQUISITOS DEL ENTONRNO DE DESARROLLO PARA LA INTEGRACION.
+El Integrated Development Environment (IDE) usado fue: 
+	Apache Netbeans en su version 12.6.
+
+Sus respectuvos requisitos:
+	Una computadora de escritorio con al menos 2 GB de RAM.
+	Se requiere Java SE Development Kit (JDK) 8, 11 o 14 para usar NetBeans IDE (NetBeans no continúa JDK9).
+
+Geestor de base de datos usado:
+	MySQL en su version 8.0.27
+
+Requisisto de MySQL:
+	512 Mb de memoria Ram.
+	1024 Mb maquina virtual.
+	1 GB de espacio de disco duro.
+	Sistema operativo:Windows,Linux y Unix.
+	Arquitectura del sistema 32/64 bit.
+	Protocolo de red TCP/IP.
+
+
+LINK DEL VIDEO MOSTRANDO LAS FUNCIONALIDADES DEL PROYECTO:
+https://drive.google.com/file/d/1p4vTnq6sM5l84IVQgYM1nHUpzMIEsPYC/view?usp=sharing
+
+*/
